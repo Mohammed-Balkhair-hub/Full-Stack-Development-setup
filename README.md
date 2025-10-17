@@ -1,5 +1,4 @@
-# Project AI_LAB
-AI-LAB is an innovative platform for hosting, sharing, and collaborating on AI models, designed with a user-friendly interface, API integration, and tools for tracking model usage and feedback.
+# Full-Stack-Development-setup
 
  #### project structure
 
